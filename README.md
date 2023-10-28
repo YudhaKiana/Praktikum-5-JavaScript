@@ -83,3 +83,18 @@
 
 
 
+#Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+
+
+![img](gambar/2023-10-28%20(19).png)
+
+
+
+#Buat script untuk melakukan validasi pada isian form.
+
+
+![img](gambar/2023-10-28%20(20).png)
+
+
+
